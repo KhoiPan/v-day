@@ -10,15 +10,15 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
-    "Are you positive? 🤔",
-    "Hubby please... 🥺",
-    "If hubby say no, sayang will be really sad...",
-    "Sayang will be very sad lah... 😢",
-    "Please hubby??? 💔",
-    "Don't do this to sayang...",
-    "Last chance! 😭",
-    "Hubby can't catch sayang anyway 😜"
+  "No",
+  "xạo lol 🙄",
+  "mày gay hả? 🏳️‍🌈",
+  "thành thật đi 😒",
+  "tao biết mày gay rồi 💅",
+  "ADMIT IT 🤨",
+  "🏳️‍🌈🏳️‍🌈🏳️‍🌈",
+  "GAY XÁC NHẬN 😤",
+  "chạy đằng trời cũng không thoát 😝",
 ]
 
 const yesTeasePokes = [
